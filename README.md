@@ -21,6 +21,14 @@ In the following table, I recommend trying out these sports for a healthier and 
   | Hiking         | Connect with nature and stay active   | 3-5 hours    |
   | Swimming       | Full-body workout and relaxation      | 5-7 hours    |
   | Yoga           | Enhance flexibility and reduce stress | 2-4 hours    |
+------------------------------------------------------------------------------------------------------------------------------------------
+### Pithy Quotes
+> "The important thing is not to stop questioning. Curiosity has its own reason for existing."
+> - *Albert Einstein*
+
+> "Science is not only a disciple of reason but, also, one of romance and passion."
+> - *Stephen Hawking*
+
 
 
 
