@@ -7,3 +7,7 @@ The Maldives is my absolute favorite vacation spot. The **amazing beaches** with
 1. Scuba diving in crystal-clear waters
 2. Exploring private islands
 3. Indulging in delicious local cuisine
+- Fresh seafood
+- Tropical fruit platters
+- Coconut curry dishes
+- Mango sticky rice
