@@ -11,3 +11,4 @@ The Maldives is my absolute favorite vacation spot. The **amazing beaches** with
 - Tropical fruit platters
 - Coconut curry dishes
 - Mango sticky rice
+For more information about me, check out [MyStats](MyStats.md).
