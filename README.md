@@ -59,6 +59,7 @@ getStylesheet();
 -->
 </script>
 ```
+[javascript-snippet-markup](https://css-tricks.com/snippets/javascript/different-stylesheet-pending-the-time-of-day/)
 
 
 
